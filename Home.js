@@ -22,7 +22,7 @@ const DUMMY_DATA = [
 function Home(){
     return(
         <section>
-            <h2>Home</h2>
+            <h2>HomePage</h2>
             <HomeItemList homeitems={DUMMY_DATA}/>
       
     </section>
